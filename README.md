@@ -19,6 +19,9 @@ My github consist of a few mini projects that I completed as challenges from the
   * [Password Generator](https://crazy-candyman.github.io/Password-Generator/)
   * [QR Code Card](https://crazy-candyman.github.io/QR-Code-Challenge/)
 
+- This link is to a text-based-game coded with python as a school project.
+
+  * [Labyrinth of Doom](https://github.com/Crazy-Candyman/Text-Based-Game/blob/main/Text_Based_Game_Application.exe)
 
 <!---
 Crazy-Candyman/Crazy-Candyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
