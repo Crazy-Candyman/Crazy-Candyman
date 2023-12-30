@@ -23,6 +23,7 @@ My github consist of a few mini projects that I completed as challenges from the
 
   * [Labyrinth of Doom Application(exe)](https://github.com/Crazy-Candyman/Text-Based-Game)
   * [Banking Calculator Application(exe)](https://github.com/Crazy-Candyman/SNHU_Airgead_Banking_Project)
+  * [Pet Boarding Application](https://github.com/Crazy-Candyman/Pet-Boarding)
 
 <!---
 Crazy-Candyman/Crazy-Candyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
