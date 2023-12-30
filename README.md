@@ -22,7 +22,7 @@ My github consist of a few mini projects that I completed as challenges from the
 - This link is to a text-based-game coded with python as a school project.
 
   * [Labyrinth of Doom Application(exe)](https://github.com/Crazy-Candyman/Text-Based-Game)
-  * [Banking Calculator Application(exe)](https://github.com/Crazy-Candyman/SNHU_Airgead_Banking_Project/blob/main/x64/Debug/Airgead_Banking_Project.exe)
+  * [Banking Calculator Application(exe)](https://github.com/Crazy-Candyman/SNHU_Airgead_Banking_Project)
 
 <!---
 Crazy-Candyman/Crazy-Candyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
